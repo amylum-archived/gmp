@@ -6,7 +6,7 @@ RELEASE_DIR = /tmp/$(PACKAGE)-release
 RELEASE_FILE = /tmp/$(PACKAGE).tar.gz
 PATH_FLAGS = --prefix=/usr --infodir=/tmp/trash
 CONF_FLAGS = --enable-maintainer-mode --enable-static --disable-padlock-support
-CFLAGS = -static -static-libgcc -Wl,-static -lc
+CFLAGS = -static -static-libgcc -Wl,-static -lc -fPIC
 
 PACKAGE_VERSION = 6.1.0
 PATCH_VERSION = $$(cat version)
