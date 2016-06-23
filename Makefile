@@ -8,7 +8,7 @@ PATH_FLAGS = --prefix=/usr --infodir=/tmp/trash
 CONF_FLAGS = --enable-maintainer-mode --disable-padlock-support
 CFLAGS = -fPIC
 
-PACKAGE_VERSION = 6.1.0
+PACKAGE_VERSION = 6.1.1
 PATCH_VERSION = $$(cat version)
 VERSION = $(PACKAGE_VERSION)-$(PATCH_VERSION)
 
