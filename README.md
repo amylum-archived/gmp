@@ -1,7 +1,7 @@
 gmp
 ==========
 
-[![Build Status](https://img.shields.io/circleci/project/amylum/gmp.svg)](https://circleci.com/gh/amylum/gmp)
+[![Build Status](https://img.shields.io/circleci/project/amylum/gmp/master.svg)](https://circleci.com/gh/amylum/gmp)
 [![GitHub release](https://img.shields.io/github/release/amylum/gmp.svg)](https://github.com/amylum/gmp/releases)
 [![GPL Licensed](http://img.shields.io/badge/license-GPL-green.svg)](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
