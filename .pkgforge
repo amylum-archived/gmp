@@ -5,7 +5,7 @@ licenses 'COPYING'
 
 source(
   type: 'tar',
-  url: "https://gmplib.org/download/gmp/gmp-6.1.1.tar.xz"
+  url: "https://gmplib.org/download/gmp/gmp-6.1.2.tar.xz"
 )
 
 configure_flags(
